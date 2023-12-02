@@ -5,7 +5,7 @@ This repository contains various machine learning projects, demonstrating the ap
 
 ## Projects
 
-### Project 1: [Churn Predictionplease](./PR_day11_One_Octadion.ipynb)
+### Project 1: [Churn Prediction](./PR_day11_One_Octadion.ipynb)
 This project focuses on predicting customer churn using machine learning techniques. The goal is to identify customers who are likely to discontinue a service, enabling proactive customer retention strategies.
 
 ### Project 2: [RFM Clustering](./PR_day14_One_Octadion.ipynb)
