@@ -5,25 +5,28 @@ This repository contains various machine learning projects, demonstrating the ap
 
 ## Projects
 
-### Project 1 : [House Price Prediction using Decision Tree Regressor](./PR_day8_One_Octadion.ipynb)
+### Project 1 : [House Price Prediction using Decision Tree Regressor](./House%Price%Prediction%using%Decision%Tree%Regressor/PR_day8_One_Octadion.ipynb)
 This project uses a Decision Tree Regressor to predict house prices based on various features such as location, land area, number of rooms, etc.
 
-### Project 2: [Churn Prediction using Multiple Algorithms](./PR_day11_One_Octadion.ipynb)
+### Project 2: [Churn Prediction using Multiple Algorithms](./Churn%Prediction%using%Multiple%Algorithms/PR_day11_One_Octadion.ipynb)
 This project focuses on predicting customer churn using machine learning techniques. The goal is to identify customers who are likely to discontinue a service, enabling proactive customer retention strategies.
 
-### Project 3: [Iris Clustering using Multiple Algorithms](./PR_day12_One_Octadion.ipynb)
+### Project 3: [Iris Clustering using Multiple Algorithms](./Iris%Clustering%using%Multiple%Algorithms/PR_day12_One_Octadion.ipynb)
 This project aims to cluster Iris species using several algorithms such as Logistic Regression, SVM, Naive Bayes, and KNN.
 
-### Project 4: [House Price Prediction using Linear Regression & PCA](./PR_day13_One_Octadion.ipynb)
+### Project 4: [House Price Prediction using Linear Regression & PCA](./House%Price%Prediction%using%Linear%Regression%&%PCA/PR_day13_One_Octadion.ipynb)
 This project uses Linear Regression and Principal Component Analysis (PCA) to predict house prices by reducing data dimensions without losing significant information.
 
-### Project 5: [RFM Clustering using KMeans](./PR_day14_One_Octadion.ipynb)
+### Project 5: [RFM Clustering using KMeans](./RFM%Clustering%using%KMeans/PR_day14_One_Octadion.ipynb)
 This project involves the application of RFM (Recency, Frequency, Monetary) clustering on a dataset. The goal is to segment customers based on their transactional behavior, providing insights that can be leveraged to optimize marketing strategies and enhance customer engagement.
 
-### Project 6: [Diabetes Classification using Ensemble Learning Classification](./PR_day17_One_Octadion.ipynb)
+### Project 6: [House Price Prediction using Ensemble Learning Regression](./House%Price%Prediction%using%Ensemble%Learning%Regression/PR_day17_One_Octadion.ipynb)
 This project uses Ensemble Learning techniques to classify whether an individual has diabetes or not based on various health features.
 
-### Project 7: [Air Passenger Time Series Modelling](./PR_day18_One_Octadion.ipynb)
+### Project 7: [Diabetes Classification using Ensemble Learning Classification](./Diabetes%Classification%using%Ensemble%Learning%Classification/PR_day17_One_Octadion.ipynb)
+This project uses Ensemble Learning techniques to classify whether an individual has diabetes or not based on various health features.
+
+### Project 8: [Air Passenger Time Series Modelling](./Air%Passenger%Time%Series%Modelling/PR_day18_One_Octadion.ipynb)
 This project uses Time Series modelling to predict the number of air passengers in the future based on historical data.
 
 ## Requirements
